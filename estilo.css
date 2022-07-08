@@ -1,0 +1,33 @@
+
+body{
+
+	width: 1400px;
+	height: 100px;
+
+	font-family:Arial, Helvetica, sans-serif;
+ background-color: cornsilk;
+ 
+  
+}
+.foto{
+    width: 1500px;
+    height:2px;
+
+    margin:auto
+    
+}
+
+.wh{
+
+    width: 1300px;
+    height:2px;
+    float:right;
+
+
+   
+
+}
+
+
+    
+
